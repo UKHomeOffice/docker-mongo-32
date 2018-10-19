@@ -1,2 +1,2 @@
 # docker-mongo-32
-Creating docker 3.2 image for non root user
+Creating mongo 3.2 image for non root user for stateful set
