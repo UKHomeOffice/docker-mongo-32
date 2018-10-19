@@ -25,7 +25,3 @@ pipeline:
       - ${DRONE_TAG}
     when:
       event: tag
-
-services:
-  database:
-      image: mongo
